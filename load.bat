@@ -1,4 +1,4 @@
  @echo off
  rem  set __COMPAT_LAYER=RunAsInvoker  
- REGEDIT.EXE  /S  "C:\WINDOWS\cero\bop.reg"
+ REGEDIT.EXE  /S  "bop.reg"
  pause
